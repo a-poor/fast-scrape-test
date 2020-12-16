@@ -4,7 +4,7 @@ multiple processes.
 
 ```
 $ ipython scrape-multiprocess.py
-Finished in 22.3361 seconds.
+Finished in 149.1805 seconds. * NOTE: This doesn't seem right
 ```
 """
 

@@ -18,4 +18,6 @@ The test links I'm using to scrape, come from [Project Gutenberg](https://www.gu
 | [Multithread](./scrape-multithread.py) | 12.4605 |
 | [Multiprocess](./scrape-multiprocess.py) | 22.3361 |
 | [Ray](./scrape-ray.py) | 18.8434 |
-| [AsyncIO](./scrape-async.py) |  |
+| [AsyncIO](./scrape-async.py) | 149.1805* |
+
+\**This does not seem right*
